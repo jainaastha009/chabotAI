@@ -198,9 +198,6 @@ Websockets/
 - Ensure Node.js version compatibility
 - Check for port conflicts
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Support
 
@@ -213,8 +210,3 @@ If you have any questions or need help with setup, please open an issue in the r
 - Vite for lightning-fast development experience
 - The open-source community for inspiration and tools
 
----
-
-**Made with ❤️ and ☕ by Aastha Jain**
-
-*Happy Chatting! 🎉*
