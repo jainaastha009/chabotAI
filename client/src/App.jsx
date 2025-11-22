@@ -9,6 +9,7 @@ function App() {
 
   return (
     <div className="app-shell">
+    
       {!joined ? (
         <div className="join-box">
           <h2>Join Chat</h2>

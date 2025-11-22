@@ -18,13 +18,21 @@ export default function Chat({ username }) {
       message,
       data: data ? JSON.stringify(data, null, 2) : null
     };
+   console.log(logEntry.data,"DATA");
+   
     setDebugLogs(prev => [...prev.slice(-49), logEntry]); // Keep last 50 entries
   };
+
+  console.log(debugLogs,"DEBUGGER");
+  
 
   useEffect(() => {
     const newSocket = io(SERVER_URL, {
       transports: ["websocket"], // force WebSocket transport
     });
+
+    console.log(newSocket,"NEW");
+    
 
     newSocket.on("connect", () => {
       console.log("✅ Connected:", newSocket.id);

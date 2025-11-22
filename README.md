@@ -215,6 +215,6 @@ If you have any questions or need help with setup, please open an issue in the r
 
 ---
 
-**Made with ❤️ and ☕ by Akhilesh**
+**Made with ❤️ and ☕ by Aastha Jain**
 
 *Happy Chatting! 🎉*
