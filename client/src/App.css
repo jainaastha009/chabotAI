@@ -12,7 +12,7 @@
   align-items: center;
   justify-content: center;
   font-family: Arial, sans-serif;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #66b3ea 0%, #3d6383 100%);
   padding: 20px;
   box-sizing: border-box;
 }
@@ -48,7 +48,7 @@
   margin-bottom: 32px;
   font-weight: 800;
   font-size: 2.5rem;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #66b3ea 0%, #3d6383 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -86,7 +86,7 @@
   max-width: 300px;
   padding: 18px 32px;
   margin: 24px auto 0;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #66c2ea 0%, #4b79a2 100%);
   color: white;
   border: none;
   border-radius: 16px;

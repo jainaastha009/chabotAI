@@ -35,7 +35,6 @@ export default function Chat({ username }) {
     
 
     newSocket.on("connect", () => {
-      console.log("✅ Connected:", newSocket.id);
       addDebugLog("connect", `Connected with ID: ${newSocket.id}`);
       setConnectionStatus("connected");
     });
